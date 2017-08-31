@@ -1,0 +1,7 @@
+5adbaf66ea73815f237255d8bd0ee2c6f709c7ea Formatting and add footer
+1c47dc7cae4702d563709890bf4287841e812bcd Basic information origins page
+b68b6f087fd8dff6a7167325cb7f6e4d118c04ac Basic information facts page
+a086ed9c259f2832a4b443a2b081259ea896984b Basic information attributes page
+7ad2f8fe8ef328574ca1855f5781b42df1b02c70 Populate README, index, and images folder
+82246404f4db7ac2e36ba0c1d341f5427eeb52a7 Add README
+38e2ec1370b00eb263005c4b6ba20aa70f5081ee Initial commit
